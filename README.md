@@ -8,6 +8,6 @@ Consistiu em desenvolver um relatório financeiro com duas páginas, a primeira 
 
 Os dados brutos foram coletados a partir da planilha [Financial Sample.xlsx](https://github.com/nphara/power_bi_analyst/tree/main/dataset)
 
-![primeira página do relatóio](desafio_de_projeto\report1.png)
+![primeira página do relatóio](desafio_de_projeto/report1.png)
 
-![segunda página do relatório](desafio_de_projeto\report1.png)
+![segunda página do relatório](desafio_de_projeto/report1.png)
