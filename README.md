@@ -10,4 +10,4 @@ Os dados brutos foram coletados a partir da planilha [Financial Sample.xlsx](htt
 
 ![primeira página do relatóio](desafio_de_projeto/report1.png)
 
-![segunda página do relatório](desafio_de_projeto/report1.png)
+![segunda página do relatório](desafio_de_projeto/report2.png)
